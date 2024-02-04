@@ -1,0 +1,14 @@
+
+
+Bu proje özetle şunları amaçlar;
+    a. Kullanıcının sosyal medya hesaplarına ait link, ad ve açıklama alanlarını girerek oluşturduğu tabloyu görmesini.
+    b. Tablonun üzerinde bulunan arama alanı ile tabloda arama yapabilmesini.
+    c. Yeni hesap girebilmesi için modal ile açılan ekrandan formu doldurmasını.
+
+
+Bu projeyi hazırlarken izlediğim adımlar;
+    a. HTML ile genel hatların oluşturulması.
+    b. Sırasıyla navbar, grid-header, grid-content, grid-footer ve form modal'a ait HTML ve CSS'ler yazıldı.
+    c. Tasarım genel hatlarıyla hazırlandıktan sonra typescript ile hareket kazandırıldı. Form eklemek için 
+        ve locale storage'den data alınması için typescript kodları yazıldı.
+    d. Resposive tasarım için test ve analiz yapıldıktan sonra tasarım resposive olarak tekrar revize edildi.
